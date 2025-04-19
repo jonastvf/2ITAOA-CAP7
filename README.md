@@ -46,6 +46,7 @@ Posteriormente, criamos uma variável quantitativa ordinal, a partir dos dados a
   - Fase 2 R project - ambiente do projeto do R criado
   - bd_graos_VF - banco de dados orginal, construido a partir dos dados do IBGE, preparado previamente em Excel
   - Trabalho Cap7 vf - script de R e transformações
+   - Produtores_bd_vf - base de dados final emm csv, com todas as variáveis solicitadas pelo exercício. 
 
 ## Grupo
 
@@ -57,9 +58,6 @@ Posteriormente, criamos uma variável quantitativa ordinal, a partir dos dados a
 | Raphael Dinelli Neto          | RM562892   |
 | Levi Passos Silveira Marques  | RM565557   |
 
-
-
-  - Produtores_bd_vf - base de dados final emm csv, com todas as variáveis solicitadas pelo exercício. 
 
 
 
