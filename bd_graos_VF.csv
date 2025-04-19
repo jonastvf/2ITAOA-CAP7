@@ -1,0 +1,549 @@
+﻿codigo_mesorregiao;mesorregiao;tipo_atividade;nro_produtores_und_cafe_graos;qtd_produzida_ton_cafe_graos;qtd_vendida_ton_cafe_graos;valor_produzido_curr_x_1000_cafe_graos;valor_vendido_currX1000_cafe_graos
+1101;Madeira-Guaporé (RO);Produção de lavouras temporárias;1;0;0;0;0
+1101;Madeira-Guaporé (RO);Produção de lavouras permanentes;13;36.64;34.72;211.12;199.99
+1101;Madeira-Guaporé (RO);Produção florestal - florestas plantadas;0;0;0;0;0
+1101;Madeira-Guaporé (RO);Produção florestal - florestas nativas;0;0;0;0;0
+1102;Leste Rondoniense (RO);Produção de lavouras temporárias;1;0;0;0;0
+1102;Leste Rondoniense (RO);Produção de lavouras permanentes;37;196.92;183.72;1274.55;1196.31
+1102;Leste Rondoniense (RO);Produção florestal - florestas plantadas;0;0;0;0;0
+1102;Leste Rondoniense (RO);Produção florestal - florestas nativas;0;0;0;0;0
+1201;Vale do Juruá (AC);Produção de lavouras temporárias;1;0;0;0;0
+1201;Vale do Juruá (AC);Produção de lavouras permanentes;0;0;0;0;0
+1201;Vale do Juruá (AC);Produção florestal - florestas plantadas;0;0;0;0;0
+1201;Vale do Juruá (AC);Produção florestal - florestas nativas;0;0;0;0;0
+1202;Vale do Acre (AC);Produção de lavouras temporárias;1;0;0;0;0
+1202;Vale do Acre (AC);Produção de lavouras permanentes;2;0;0;0;0
+1202;Vale do Acre (AC);Produção florestal - florestas plantadas;0;0;0;0;0
+1202;Vale do Acre (AC);Produção florestal - florestas nativas;0;0;0;0;0
+1301;Norte Amazonense (AM);Produção de lavouras temporárias;0;0;0;0;0
+1301;Norte Amazonense (AM);Produção de lavouras permanentes;0;0;0;0;0
+1301;Norte Amazonense (AM);Produção florestal - florestas plantadas;0;0;0;0;0
+1301;Norte Amazonense (AM);Produção florestal - florestas nativas;0;0;0;0;0
+1302;Sudoeste Amazonense (AM);Produção de lavouras temporárias;0;0;0;0;0
+1302;Sudoeste Amazonense (AM);Produção de lavouras permanentes;0;0;0;0;0
+1302;Sudoeste Amazonense (AM);Produção florestal - florestas plantadas;0;0;0;0;0
+1302;Sudoeste Amazonense (AM);Produção florestal - florestas nativas;0;0;0;0;0
+1303;Centro Amazonense (AM);Produção de lavouras temporárias;1;0;0;0;0
+1303;Centro Amazonense (AM);Produção de lavouras permanentes;4;0;0;0;0
+1303;Centro Amazonense (AM);Produção florestal - florestas plantadas;0;0;0;0;0
+1303;Centro Amazonense (AM);Produção florestal - florestas nativas;0;0;0;0;0
+1304;Sul Amazonense (AM);Produção de lavouras temporárias;2;0;0;0;0
+1304;Sul Amazonense (AM);Produção de lavouras permanentes;0;0;0;0;0
+1304;Sul Amazonense (AM);Produção florestal - florestas plantadas;0;0;0;0;0
+1304;Sul Amazonense (AM);Produção florestal - florestas nativas;0;0;0;0;0
+1401;Norte de Roraima (RR);Produção de lavouras temporárias;0;0;0;0;0
+1401;Norte de Roraima (RR);Produção de lavouras permanentes;0;0;0;0;0
+1401;Norte de Roraima (RR);Produção florestal - florestas plantadas;0;0;0;0;0
+1401;Norte de Roraima (RR);Produção florestal - florestas nativas;0;0;0;0;0
+1402;Sul de Roraima (RR);Produção de lavouras temporárias;0;0;0;0;0
+1402;Sul de Roraima (RR);Produção de lavouras permanentes;0;0;0;0;0
+1402;Sul de Roraima (RR);Produção florestal - florestas plantadas;0;0;0;0;0
+1402;Sul de Roraima (RR);Produção florestal - florestas nativas;0;0;0;0;0
+1501;Baixo Amazonas (PA);Produção de lavouras temporárias;1;0;0;0;0
+1501;Baixo Amazonas (PA);Produção de lavouras permanentes;1;0;0;0;0
+1501;Baixo Amazonas (PA);Produção florestal - florestas plantadas;0;0;0;0;0
+1501;Baixo Amazonas (PA);Produção florestal - florestas nativas;0;0;0;0;0
+1502;Marajó (PA);Produção de lavouras temporárias;0;0;0;0;0
+1502;Marajó (PA);Produção de lavouras permanentes;0;0;0;0;0
+1502;Marajó (PA);Produção florestal - florestas plantadas;0;0;0;0;0
+1502;Marajó (PA);Produção florestal - florestas nativas;0;0;0;0;0
+1503;Metropolitana de Belém (PA);Produção de lavouras temporárias;0;0;0;0;0
+1503;Metropolitana de Belém (PA);Produção de lavouras permanentes;0;0;0;0;0
+1503;Metropolitana de Belém (PA);Produção florestal - florestas plantadas;0;0;0;0;0
+1503;Metropolitana de Belém (PA);Produção florestal - florestas nativas;0;0;0;0;0
+1504;Nordeste Paraense (PA);Produção de lavouras temporárias;1;0;0;0;0
+1504;Nordeste Paraense (PA);Produção de lavouras permanentes;1;0;0;0;0
+1504;Nordeste Paraense (PA);Produção florestal - florestas plantadas;0;0;0;0;0
+1504;Nordeste Paraense (PA);Produção florestal - florestas nativas;1;0;0;0;0
+1505;Sudoeste Paraense (PA);Produção de lavouras temporárias;1;0;0;0;0
+1505;Sudoeste Paraense (PA);Produção de lavouras permanentes;5;0;0;0;0
+1505;Sudoeste Paraense (PA);Produção florestal - florestas plantadas;0;0;0;0;0
+1505;Sudoeste Paraense (PA);Produção florestal - florestas nativas;0;0;0;0;0
+1506;Sudeste Paraense (PA);Produção de lavouras temporárias;0;0;0;0;0
+1506;Sudeste Paraense (PA);Produção de lavouras permanentes;1;0;0;0;0
+1506;Sudeste Paraense (PA);Produção florestal - florestas plantadas;0;0;0;0;0
+1506;Sudeste Paraense (PA);Produção florestal - florestas nativas;0;0;0;0;0
+1601;Norte do Amapá (AP);Produção de lavouras temporárias;0;0;0;0;0
+1601;Norte do Amapá (AP);Produção de lavouras permanentes;0;0;0;0;0
+1601;Norte do Amapá (AP);Produção florestal - florestas plantadas;0;0;0;0;0
+1601;Norte do Amapá (AP);Produção florestal - florestas nativas;0;0;0;0;0
+1602;Sul do Amapá (AP);Produção de lavouras temporárias;0;0;0;0;0
+1602;Sul do Amapá (AP);Produção de lavouras permanentes;0;0;0;0;0
+1602;Sul do Amapá (AP);Produção florestal - florestas plantadas;0;0;0;0;0
+1602;Sul do Amapá (AP);Produção florestal - florestas nativas;0;0;0;0;0
+1701;Ocidental do Tocantins (TO);Produção de lavouras temporárias;0;0;0;0;0
+1701;Ocidental do Tocantins (TO);Produção de lavouras permanentes;0;0;0;0;0
+1701;Ocidental do Tocantins (TO);Produção florestal - florestas plantadas;0;0;0;0;0
+1701;Ocidental do Tocantins (TO);Produção florestal - florestas nativas;0;0;0;0;0
+1702;Oriental do Tocantins (TO);Produção de lavouras temporárias;1;0;0;0;0
+1702;Oriental do Tocantins (TO);Produção de lavouras permanentes;0;0;0;0;0
+1702;Oriental do Tocantins (TO);Produção florestal - florestas plantadas;0;0;0;0;0
+1702;Oriental do Tocantins (TO);Produção florestal - florestas nativas;0;0;0;0;0
+2101;Norte Maranhense (MA);Produção de lavouras temporárias;0;0;0;0;0
+2101;Norte Maranhense (MA);Produção de lavouras permanentes;0;0;0;0;0
+2101;Norte Maranhense (MA);Produção florestal - florestas plantadas;0;0;0;0;0
+2101;Norte Maranhense (MA);Produção florestal - florestas nativas;0;0;0;0;0
+2102;Oeste Maranhense (MA);Produção de lavouras temporárias;0;0;0;0;0
+2102;Oeste Maranhense (MA);Produção de lavouras permanentes;0;0;0;0;0
+2102;Oeste Maranhense (MA);Produção florestal - florestas plantadas;0;0;0;0;0
+2102;Oeste Maranhense (MA);Produção florestal - florestas nativas;0;0;0;0;0
+2103;Centro Maranhense (MA);Produção de lavouras temporárias;0;0;0;0;0
+2103;Centro Maranhense (MA);Produção de lavouras permanentes;0;0;0;0;0
+2103;Centro Maranhense (MA);Produção florestal - florestas plantadas;0;0;0;0;0
+2103;Centro Maranhense (MA);Produção florestal - florestas nativas;0;0;0;0;0
+2104;Leste Maranhense (MA);Produção de lavouras temporárias;0;0;0;0;0
+2104;Leste Maranhense (MA);Produção de lavouras permanentes;0;0;0;0;0
+2104;Leste Maranhense (MA);Produção florestal - florestas plantadas;0;0;0;0;0
+2104;Leste Maranhense (MA);Produção florestal - florestas nativas;0;0;0;0;0
+2105;Sul Maranhense (MA);Produção de lavouras temporárias;0;0;0;0;0
+2105;Sul Maranhense (MA);Produção de lavouras permanentes;0;0;0;0;0
+2105;Sul Maranhense (MA);Produção florestal - florestas plantadas;0;0;0;0;0
+2105;Sul Maranhense (MA);Produção florestal - florestas nativas;0;0;0;0;0
+2201;Norte Piauiense (PI);Produção de lavouras temporárias;0;0;0;0;0
+2201;Norte Piauiense (PI);Produção de lavouras permanentes;0;0;0;0;0
+2201;Norte Piauiense (PI);Produção florestal - florestas plantadas;0;0;0;0;0
+2201;Norte Piauiense (PI);Produção florestal - florestas nativas;0;0;0;0;0
+2202;Centro-Norte Piauiense (PI);Produção de lavouras temporárias;0;0;0;0;0
+2202;Centro-Norte Piauiense (PI);Produção de lavouras permanentes;0;0;0;0;0
+2202;Centro-Norte Piauiense (PI);Produção florestal - florestas plantadas;0;0;0;0;0
+2202;Centro-Norte Piauiense (PI);Produção florestal - florestas nativas;0;0;0;0;0
+2203;Sudoeste Piauiense (PI);Produção de lavouras temporárias;0;0;0;0;0
+2203;Sudoeste Piauiense (PI);Produção de lavouras permanentes;0;0;0;0;0
+2203;Sudoeste Piauiense (PI);Produção florestal - florestas plantadas;0;0;0;0;0
+2203;Sudoeste Piauiense (PI);Produção florestal - florestas nativas;0;0;0;0;0
+2204;Sudeste Piauiense (PI);Produção de lavouras temporárias;0;0;0;0;0
+2204;Sudeste Piauiense (PI);Produção de lavouras permanentes;0;0;0;0;0
+2204;Sudeste Piauiense (PI);Produção florestal - florestas plantadas;0;0;0;0;0
+2204;Sudeste Piauiense (PI);Produção florestal - florestas nativas;0;0;0;0;0
+2301;Noroeste Cearense (CE);Produção de lavouras temporárias;2;0;0;0;0
+2301;Noroeste Cearense (CE);Produção de lavouras permanentes;2;0;0;0;0
+2301;Noroeste Cearense (CE);Produção florestal - florestas plantadas;0;0;0;0;0
+2301;Noroeste Cearense (CE);Produção florestal - florestas nativas;0;0;0;0;0
+2302;Norte Cearense (CE);Produção de lavouras temporárias;0;0;0;0;0
+2302;Norte Cearense (CE);Produção de lavouras permanentes;4;1.74;1.56;11.58;10.18
+2302;Norte Cearense (CE);Produção florestal - florestas plantadas;0;0;0;0;0
+2302;Norte Cearense (CE);Produção florestal - florestas nativas;0;0;0;0;0
+2303;Metropolitana de Fortaleza (CE);Produção de lavouras temporárias;0;0;0;0;0
+2303;Metropolitana de Fortaleza (CE);Produção de lavouras permanentes;0;0;0;0;0
+2303;Metropolitana de Fortaleza (CE);Produção florestal - florestas plantadas;0;0;0;0;0
+2303;Metropolitana de Fortaleza (CE);Produção florestal - florestas nativas;0;0;0;0;0
+2304;Sertões Cearenses (CE);Produção de lavouras temporárias;0;0;0;0;0
+2304;Sertões Cearenses (CE);Produção de lavouras permanentes;0;0;0;0;0
+2304;Sertões Cearenses (CE);Produção florestal - florestas plantadas;0;0;0;0;0
+2304;Sertões Cearenses (CE);Produção florestal - florestas nativas;0;0;0;0;0
+2305;Jaguaribe (CE);Produção de lavouras temporárias;0;0;0;0;0
+2305;Jaguaribe (CE);Produção de lavouras permanentes;0;0;0;0;0
+2305;Jaguaribe (CE);Produção florestal - florestas plantadas;0;0;0;0;0
+2305;Jaguaribe (CE);Produção florestal - florestas nativas;0;0;0;0;0
+2306;Centro-Sul Cearense (CE);Produção de lavouras temporárias;0;0;0;0;0
+2306;Centro-Sul Cearense (CE);Produção de lavouras permanentes;0;0;0;0;0
+2306;Centro-Sul Cearense (CE);Produção florestal - florestas plantadas;0;0;0;0;0
+2306;Centro-Sul Cearense (CE);Produção florestal - florestas nativas;0;0;0;0;0
+2307;Sul Cearense (CE);Produção de lavouras temporárias;0;0;0;0;0
+2307;Sul Cearense (CE);Produção de lavouras permanentes;0;0;0;0;0
+2307;Sul Cearense (CE);Produção florestal - florestas plantadas;0;0;0;0;0
+2307;Sul Cearense (CE);Produção florestal - florestas nativas;0;0;0;0;0
+2401;Oeste Potiguar (RN);Produção de lavouras temporárias;0;0;0;0;0
+2401;Oeste Potiguar (RN);Produção de lavouras permanentes;0;0;0;0;0
+2401;Oeste Potiguar (RN);Produção florestal - florestas plantadas;0;0;0;0;0
+2401;Oeste Potiguar (RN);Produção florestal - florestas nativas;0;0;0;0;0
+2402;Central Potiguar (RN);Produção de lavouras temporárias;0;0;0;0;0
+2402;Central Potiguar (RN);Produção de lavouras permanentes;0;0;0;0;0
+2402;Central Potiguar (RN);Produção florestal - florestas plantadas;0;0;0;0;0
+2402;Central Potiguar (RN);Produção florestal - florestas nativas;0;0;0;0;0
+2403;Agreste Potiguar (RN);Produção de lavouras temporárias;0;0;0;0;0
+2403;Agreste Potiguar (RN);Produção de lavouras permanentes;0;0;0;0;0
+2403;Agreste Potiguar (RN);Produção florestal - florestas plantadas;0;0;0;0;0
+2403;Agreste Potiguar (RN);Produção florestal - florestas nativas;0;0;0;0;0
+2404;Leste Potiguar (RN);Produção de lavouras temporárias;0;0;0;0;0
+2404;Leste Potiguar (RN);Produção de lavouras permanentes;0;0;0;0;0
+2404;Leste Potiguar (RN);Produção florestal - florestas plantadas;0;0;0;0;0
+2404;Leste Potiguar (RN);Produção florestal - florestas nativas;0;0;0;0;0
+2501;Sertão Paraibano (PB);Produção de lavouras temporárias;1;0;0;0;0
+2501;Sertão Paraibano (PB);Produção de lavouras permanentes;0;0;0;0;0
+2501;Sertão Paraibano (PB);Produção florestal - florestas plantadas;0;0;0;0;0
+2501;Sertão Paraibano (PB);Produção florestal - florestas nativas;0;0;0;0;0
+2502;Borborema (PB);Produção de lavouras temporárias;0;0;0;0;0
+2502;Borborema (PB);Produção de lavouras permanentes;0;0;0;0;0
+2502;Borborema (PB);Produção florestal - florestas plantadas;0;0;0;0;0
+2502;Borborema (PB);Produção florestal - florestas nativas;0;0;0;0;0
+2503;Agreste Paraibano (PB);Produção de lavouras temporárias;0;0;0;0;0
+2503;Agreste Paraibano (PB);Produção de lavouras permanentes;0;0;0;0;0
+2503;Agreste Paraibano (PB);Produção florestal - florestas plantadas;0;0;0;0;0
+2503;Agreste Paraibano (PB);Produção florestal - florestas nativas;0;0;0;0;0
+2504;Mata Paraibana (PB);Produção de lavouras temporárias;0;0;0;0;0
+2504;Mata Paraibana (PB);Produção de lavouras permanentes;0;0;0;0;0
+2504;Mata Paraibana (PB);Produção florestal - florestas plantadas;0;0;0;0;0
+2504;Mata Paraibana (PB);Produção florestal - florestas nativas;0;0;0;0;0
+2601;Sertão Pernambucano (PE);Produção de lavouras temporárias;0;0;0;0;0
+2601;Sertão Pernambucano (PE);Produção de lavouras permanentes;0;0;0;0;0
+2601;Sertão Pernambucano (PE);Produção florestal - florestas plantadas;0;0;0;0;0
+2601;Sertão Pernambucano (PE);Produção florestal - florestas nativas;0;0;0;0;0
+2602;São Francisco Pernambucano (PE);Produção de lavouras temporárias;0;0;0;0;0
+2602;São Francisco Pernambucano (PE);Produção de lavouras permanentes;0;0;0;0;0
+2602;São Francisco Pernambucano (PE);Produção florestal - florestas plantadas;0;0;0;0;0
+2602;São Francisco Pernambucano (PE);Produção florestal - florestas nativas;0;0;0;0;0
+2603;Agreste Pernambucano (PE);Produção de lavouras temporárias;0;0;0;0;0
+2603;Agreste Pernambucano (PE);Produção de lavouras permanentes;0;0;0;0;0
+2603;Agreste Pernambucano (PE);Produção florestal - florestas plantadas;0;0;0;0;0
+2603;Agreste Pernambucano (PE);Produção florestal - florestas nativas;0;0;0;0;0
+2604;Mata Pernambucana (PE);Produção de lavouras temporárias;0;0;0;0;0
+2604;Mata Pernambucana (PE);Produção de lavouras permanentes;0;0;0;0;0
+2604;Mata Pernambucana (PE);Produção florestal - florestas plantadas;0;0;0;0;0
+2604;Mata Pernambucana (PE);Produção florestal - florestas nativas;0;0;0;0;0
+2605;Metropolitana de Recife (PE);Produção de lavouras temporárias;0;0;0;0;0
+2605;Metropolitana de Recife (PE);Produção de lavouras permanentes;0;0;0;0;0
+2605;Metropolitana de Recife (PE);Produção florestal - florestas plantadas;0;0;0;0;0
+2605;Metropolitana de Recife (PE);Produção florestal - florestas nativas;0;0;0;0;0
+2701;Sertão Alagoano (AL);Produção de lavouras temporárias;0;0;0;0;0
+2701;Sertão Alagoano (AL);Produção de lavouras permanentes;0;0;0;0;0
+2701;Sertão Alagoano (AL);Produção florestal - florestas plantadas;0;0;0;0;0
+2701;Sertão Alagoano (AL);Produção florestal - florestas nativas;0;0;0;0;0
+2702;Agreste Alagoano (AL);Produção de lavouras temporárias;0;0;0;0;0
+2702;Agreste Alagoano (AL);Produção de lavouras permanentes;0;0;0;0;0
+2702;Agreste Alagoano (AL);Produção florestal - florestas plantadas;0;0;0;0;0
+2702;Agreste Alagoano (AL);Produção florestal - florestas nativas;0;0;0;0;0
+2703;Leste Alagoano (AL);Produção de lavouras temporárias;0;0;0;0;0
+2703;Leste Alagoano (AL);Produção de lavouras permanentes;0;0;0;0;0
+2703;Leste Alagoano (AL);Produção florestal - florestas plantadas;0;0;0;0;0
+2703;Leste Alagoano (AL);Produção florestal - florestas nativas;0;0;0;0;0
+2801;Sertão Sergipano (SE);Produção de lavouras temporárias;0;0;0;0;0
+2801;Sertão Sergipano (SE);Produção de lavouras permanentes;0;0;0;0;0
+2801;Sertão Sergipano (SE);Produção florestal - florestas plantadas;0;0;0;0;0
+2801;Sertão Sergipano (SE);Produção florestal - florestas nativas;0;0;0;0;0
+2802;Agreste Sergipano (SE);Produção de lavouras temporárias;0;0;0;0;0
+2802;Agreste Sergipano (SE);Produção de lavouras permanentes;0;0;0;0;0
+2802;Agreste Sergipano (SE);Produção florestal - florestas plantadas;0;0;0;0;0
+2802;Agreste Sergipano (SE);Produção florestal - florestas nativas;0;0;0;0;0
+2803;Leste Sergipano (SE);Produção de lavouras temporárias;0;0;0;0;0
+2803;Leste Sergipano (SE);Produção de lavouras permanentes;0;0;0;0;0
+2803;Leste Sergipano (SE);Produção florestal - florestas plantadas;0;0;0;0;0
+2803;Leste Sergipano (SE);Produção florestal - florestas nativas;0;0;0;0;0
+2901;Extremo Oeste Baiano (BA);Produção de lavouras temporárias;0;0;0;0;0
+2901;Extremo Oeste Baiano (BA);Produção de lavouras permanentes;0;0;0;0;0
+2901;Extremo Oeste Baiano (BA);Produção florestal - florestas plantadas;0;0;0;0;0
+2901;Extremo Oeste Baiano (BA);Produção florestal - florestas nativas;0;0;0;0;0
+2902;Vale São-Franciscano da Bahia (BA);Produção de lavouras temporárias;0;0;0;0;0
+2902;Vale São-Franciscano da Bahia (BA);Produção de lavouras permanentes;0;0;0;0;0
+2902;Vale São-Franciscano da Bahia (BA);Produção florestal - florestas plantadas;0;0;0;0;0
+2902;Vale São-Franciscano da Bahia (BA);Produção florestal - florestas nativas;0;0;0;0;0
+2903;Centro Norte Baiano (BA);Produção de lavouras temporárias;2;0;0;0;0
+2903;Centro Norte Baiano (BA);Produção de lavouras permanentes;8;5.85;3.9;35.41;22.5
+2903;Centro Norte Baiano (BA);Produção florestal - florestas plantadas;0;0;0;0;0
+2903;Centro Norte Baiano (BA);Produção florestal - florestas nativas;1;0;0;0;0
+2904;Nordeste Baiano (BA);Produção de lavouras temporárias;0;0;0;0;0
+2904;Nordeste Baiano (BA);Produção de lavouras permanentes;0;0;0;0;0
+2904;Nordeste Baiano (BA);Produção florestal - florestas plantadas;0;0;0;0;0
+2904;Nordeste Baiano (BA);Produção florestal - florestas nativas;0;0;0;0;0
+2905;Metropolitana de Salvador (BA);Produção de lavouras temporárias;1;0;0;0;0
+2905;Metropolitana de Salvador (BA);Produção de lavouras permanentes;0;0;0;0;0
+2905;Metropolitana de Salvador (BA);Produção florestal - florestas plantadas;0;0;0;0;0
+2905;Metropolitana de Salvador (BA);Produção florestal - florestas nativas;0;0;0;0;0
+2906;Centro Sul Baiano (BA);Produção de lavouras temporárias;43;3.17;1.47;22.4;10.1
+2906;Centro Sul Baiano (BA);Produção de lavouras permanentes;243;303.98;292.08;2291.6;2205.95
+2906;Centro Sul Baiano (BA);Produção florestal - florestas plantadas;0;0;0;0;0
+2906;Centro Sul Baiano (BA);Produção florestal - florestas nativas;11;0.63;0.36;6.06;3.23
+2907;Sul Baiano (BA);Produção de lavouras temporárias;6;0;0;0;0
+2907;Sul Baiano (BA);Produção de lavouras permanentes;14;1344.29;604.08;7706.31;3497.06
+2907;Sul Baiano (BA);Produção florestal - florestas plantadas;0;0;0;0;0
+2907;Sul Baiano (BA);Produção florestal - florestas nativas;0;0;0;0;0
+3101;Noroeste de Minas (MG);Produção de lavouras temporárias;0;0;0;0;0
+3101;Noroeste de Minas (MG);Produção de lavouras permanentes;0;0;0;0;0
+3101;Noroeste de Minas (MG);Produção florestal - florestas plantadas;0;0;0;0;0
+3101;Noroeste de Minas (MG);Produção florestal - florestas nativas;0;0;0;0;0
+3102;Norte de Minas (MG);Produção de lavouras temporárias;11;0;0;0;0
+3102;Norte de Minas (MG);Produção de lavouras permanentes;0;0;0;0;0
+3102;Norte de Minas (MG);Produção florestal - florestas plantadas;0;0;0;0;0
+3102;Norte de Minas (MG);Produção florestal - florestas nativas;1;0;0;0;0
+3103;Jequitinhonha (MG);Produção de lavouras temporárias;58;2.4;0;23.22;0
+3103;Jequitinhonha (MG);Produção de lavouras permanentes;2;0;0;0;0
+3103;Jequitinhonha (MG);Produção florestal - florestas plantadas;10;0.37;0;4.71;0
+3103;Jequitinhonha (MG);Produção florestal - florestas nativas;12;0.35;0;4.2;0
+3104;Vale do Mucuri (MG);Produção de lavouras temporárias;3;0.65;0.55;6.5;5.5
+3104;Vale do Mucuri (MG);Produção de lavouras permanentes;4;1.02;0.85;10.22;8.5
+3104;Vale do Mucuri (MG);Produção florestal - florestas plantadas;0;0;0;0;0
+3104;Vale do Mucuri (MG);Produção florestal - florestas nativas;0;0;0;0;0
+3105;Triângulo Mineiro/Alto Paranaíba (MG);Produção de lavouras temporárias;0;0;0;0;0
+3105;Triângulo Mineiro/Alto Paranaíba (MG);Produção de lavouras permanentes;3;362.31;362.31;5222.92;5222.92
+3105;Triângulo Mineiro/Alto Paranaíba (MG);Produção florestal - florestas plantadas;0;0;0;0;0
+3105;Triângulo Mineiro/Alto Paranaíba (MG);Produção florestal - florestas nativas;0;0;0;0;0
+3106;Central Mineira (MG);Produção de lavouras temporárias;0;0;0;0;0
+3106;Central Mineira (MG);Produção de lavouras permanentes;0;0;0;0;0
+3106;Central Mineira (MG);Produção florestal - florestas plantadas;0;0;0;0;0
+3106;Central Mineira (MG);Produção florestal - florestas nativas;0;0;0;0;0
+3107;Metropolitana de Belo Horizonte (MG);Produção de lavouras temporárias;2;0;0;0;0
+3107;Metropolitana de Belo Horizonte (MG);Produção de lavouras permanentes;2;0;0;0;0
+3107;Metropolitana de Belo Horizonte (MG);Produção florestal - florestas plantadas;1;0;0;0;0
+3107;Metropolitana de Belo Horizonte (MG);Produção florestal - florestas nativas;0;0;0;0;0
+3108;Vale do Rio Doce (MG);Produção de lavouras temporárias;86;2.21;0;24.51;0
+3108;Vale do Rio Doce (MG);Produção de lavouras permanentes;18;55.99;55.3;780.97;773.95
+3108;Vale do Rio Doce (MG);Produção florestal - florestas plantadas;3;0;0;0;0
+3108;Vale do Rio Doce (MG);Produção florestal - florestas nativas;11;0;0;0;0
+3109;Oeste de Minas (MG);Produção de lavouras temporárias;0;0;0;0;0
+3109;Oeste de Minas (MG);Produção de lavouras permanentes;3;0;0;0;0
+3109;Oeste de Minas (MG);Produção florestal - florestas plantadas;1;0;0;0;0
+3109;Oeste de Minas (MG);Produção florestal - florestas nativas;0;0;0;0;0
+3110;Sul/Sudoeste de Minas (MG);Produção de lavouras temporárias;5;0;0;0;0
+3110;Sul/Sudoeste de Minas (MG);Produção de lavouras permanentes;41;93.8;64;901.3;712.45
+3110;Sul/Sudoeste de Minas (MG);Produção florestal - florestas plantadas;1;0;0;0;0
+3110;Sul/Sudoeste de Minas (MG);Produção florestal - florestas nativas;0;0;0;0;0
+3111;Campo das Vertentes (MG);Produção de lavouras temporárias;0;0;0;0;0
+3111;Campo das Vertentes (MG);Produção de lavouras permanentes;2;0;0;0;0
+3111;Campo das Vertentes (MG);Produção florestal - florestas plantadas;0;0;0;0;0
+3111;Campo das Vertentes (MG);Produção florestal - florestas nativas;0;0;0;0;0
+3112;Zona da Mata (MG);Produção de lavouras temporárias;3;1.38;1.2;17.79;16.8
+3112;Zona da Mata (MG);Produção de lavouras permanentes;19;60.07;55.52;719.87;679.81
+3112;Zona da Mata (MG);Produção florestal - florestas plantadas;0;0;0;0;0
+3112;Zona da Mata (MG);Produção florestal - florestas nativas;0;0;0;0;0
+3201;Noroeste Espírito-santense (ES);Produção de lavouras temporárias;1;0;0;0;0
+3201;Noroeste Espírito-santense (ES);Produção de lavouras permanentes;26;479.91;359.07;2899.19;2151.37
+3201;Noroeste Espírito-santense (ES);Produção florestal - florestas plantadas;0;0;0;0;0
+3201;Noroeste Espírito-santense (ES);Produção florestal - florestas nativas;0;0;0;0;0
+3202;Litoral Norte Espírito-santense (ES);Produção de lavouras temporárias;0;0;0;0;0
+3202;Litoral Norte Espírito-santense (ES);Produção de lavouras permanentes;9;0;0;0;0
+3202;Litoral Norte Espírito-santense (ES);Produção florestal - florestas plantadas;0;0;0;0;0
+3202;Litoral Norte Espírito-santense (ES);Produção florestal - florestas nativas;0;0;0;0;0
+3203;Central Espírito-santense (ES);Produção de lavouras temporárias;3;0;0;0;0
+3203;Central Espírito-santense (ES);Produção de lavouras permanentes;39;29.96;24.16;204.07;178.93
+3203;Central Espírito-santense (ES);Produção florestal - florestas plantadas;2;0;0;0;0
+3203;Central Espírito-santense (ES);Produção florestal - florestas nativas;0;0;0;0;0
+3204;Sul Espírito-santense (ES);Produção de lavouras temporárias;63;2.4;0;15.11;0
+3204;Sul Espírito-santense (ES);Produção de lavouras permanentes;111;709;672.94;4037.62;3804.68
+3204;Sul Espírito-santense (ES);Produção florestal - florestas plantadas;0;0;0;0;0
+3204;Sul Espírito-santense (ES);Produção florestal - florestas nativas;0;0;0;0;0
+3301;Noroeste Fluminense (RJ);Produção de lavouras temporárias;0;0;0;0;0
+3301;Noroeste Fluminense (RJ);Produção de lavouras permanentes;0;0;0;0;0
+3301;Noroeste Fluminense (RJ);Produção florestal - florestas plantadas;0;0;0;0;0
+3301;Noroeste Fluminense (RJ);Produção florestal - florestas nativas;0;0;0;0;0
+3302;Norte Fluminense (RJ);Produção de lavouras temporárias;1;0;0;0;0
+3302;Norte Fluminense (RJ);Produção de lavouras permanentes;0;0;0;0;0
+3302;Norte Fluminense (RJ);Produção florestal - florestas plantadas;0;0;0;0;0
+3302;Norte Fluminense (RJ);Produção florestal - florestas nativas;0;0;0;0;0
+3303;Centro Fluminense (RJ);Produção de lavouras temporárias;0;0;0;0;0
+3303;Centro Fluminense (RJ);Produção de lavouras permanentes;2;0;0;0;0
+3303;Centro Fluminense (RJ);Produção florestal - florestas plantadas;0;0;0;0;0
+3303;Centro Fluminense (RJ);Produção florestal - florestas nativas;0;0;0;0;0
+3304;Baixadas (RJ);Produção de lavouras temporárias;0;0;0;0;0
+3304;Baixadas (RJ);Produção de lavouras permanentes;0;0;0;0;0
+3304;Baixadas (RJ);Produção florestal - florestas plantadas;0;0;0;0;0
+3304;Baixadas (RJ);Produção florestal - florestas nativas;0;0;0;0;0
+3305;Sul Fluminense (RJ);Produção de lavouras temporárias;0;0;0;0;0
+3305;Sul Fluminense (RJ);Produção de lavouras permanentes;0;0;0;0;0
+3305;Sul Fluminense (RJ);Produção florestal - florestas plantadas;0;0;0;0;0
+3305;Sul Fluminense (RJ);Produção florestal - florestas nativas;0;0;0;0;0
+3306;Metropolitana do Rio de Janeiro (RJ);Produção de lavouras temporárias;0;0;0;0;0
+3306;Metropolitana do Rio de Janeiro (RJ);Produção de lavouras permanentes;0;0;0;0;0
+3306;Metropolitana do Rio de Janeiro (RJ);Produção florestal - florestas plantadas;0;0;0;0;0
+3306;Metropolitana do Rio de Janeiro (RJ);Produção florestal - florestas nativas;0;0;0;0;0
+3501;São José do Rio Preto (SP);Produção de lavouras temporárias;0;0;0;0;0
+3501;São José do Rio Preto (SP);Produção de lavouras permanentes;0;0;0;0;0
+3501;São José do Rio Preto (SP);Produção florestal - florestas plantadas;0;0;0;0;0
+3501;São José do Rio Preto (SP);Produção florestal - florestas nativas;0;0;0;0;0
+3502;Ribeirão Preto (SP);Produção de lavouras temporárias;3;0;0;0;0
+3502;Ribeirão Preto (SP);Produção de lavouras permanentes;15;1724.63;842.65;12613.27;6622.07
+3502;Ribeirão Preto (SP);Produção florestal - florestas plantadas;0;0;0;0;0
+3502;Ribeirão Preto (SP);Produção florestal - florestas nativas;0;0;0;0;0
+3503;Araçatuba (SP);Produção de lavouras temporárias;0;0;0;0;0
+3503;Araçatuba (SP);Produção de lavouras permanentes;0;0;0;0;0
+3503;Araçatuba (SP);Produção florestal - florestas plantadas;0;0;0;0;0
+3503;Araçatuba (SP);Produção florestal - florestas nativas;0;0;0;0;0
+3504;Bauru (SP);Produção de lavouras temporárias;2;0;0;0;0
+3504;Bauru (SP);Produção de lavouras permanentes;12;339.24;199.48;2390.43;1436.35
+3504;Bauru (SP);Produção florestal - florestas plantadas;0;0;0;0;0
+3504;Bauru (SP);Produção florestal - florestas nativas;0;0;0;0;0
+3505;Araraquara (SP);Produção de lavouras temporárias;0;0;0;0;0
+3505;Araraquara (SP);Produção de lavouras permanentes;1;0;0;0;0
+3505;Araraquara (SP);Produção florestal - florestas plantadas;0;0;0;0;0
+3505;Araraquara (SP);Produção florestal - florestas nativas;0;0;0;0;0
+3506;Piracicaba (SP);Produção de lavouras temporárias;0;0;0;0;0
+3506;Piracicaba (SP);Produção de lavouras permanentes;3;0;0;0;0
+3506;Piracicaba (SP);Produção florestal - florestas plantadas;0;0;0;0;0
+3506;Piracicaba (SP);Produção florestal - florestas nativas;0;0;0;0;0
+3507;Campinas (SP);Produção de lavouras temporárias;2;0;0;0;0
+3507;Campinas (SP);Produção de lavouras permanentes;22;741.95;612.34;6673.55;5644.8
+3507;Campinas (SP);Produção florestal - florestas plantadas;0;0;0;0;0
+3507;Campinas (SP);Produção florestal - florestas nativas;0;0;0;0;0
+3508;Presidente Prudente (SP);Produção de lavouras temporárias;1;0;0;0;0
+3508;Presidente Prudente (SP);Produção de lavouras permanentes;13;270.64;157.62;2013.3;996.59
+3508;Presidente Prudente (SP);Produção florestal - florestas plantadas;0;0;0;0;0
+3508;Presidente Prudente (SP);Produção florestal - florestas nativas;0;0;0;0;0
+3509;Marília (SP);Produção de lavouras temporárias;0;0;0;0;0
+3509;Marília (SP);Produção de lavouras permanentes;7;165.54;104.46;1254.66;816.66
+3509;Marília (SP);Produção florestal - florestas plantadas;0;0;0;0;0
+3509;Marília (SP);Produção florestal - florestas nativas;0;0;0;0;0
+3510;Assis (SP);Produção de lavouras temporárias;0;0;0;0;0
+3510;Assis (SP);Produção de lavouras permanentes;11;704.16;686.76;3501.22;3382.66
+3510;Assis (SP);Produção florestal - florestas plantadas;0;0;0;0;0
+3510;Assis (SP);Produção florestal - florestas nativas;0;0;0;0;0
+3511;Itapetininga (SP);Produção de lavouras temporárias;0;0;0;0;0
+3511;Itapetininga (SP);Produção de lavouras permanentes;2;0;0;0;0
+3511;Itapetininga (SP);Produção florestal - florestas plantadas;0;0;0;0;0
+3511;Itapetininga (SP);Produção florestal - florestas nativas;0;0;0;0;0
+3512;Macro Metropolitana Paulista (SP);Produção de lavouras temporárias;0;0;0;0;0
+3512;Macro Metropolitana Paulista (SP);Produção de lavouras permanentes;4;4.21;3.25;39.14;32.72
+3512;Macro Metropolitana Paulista (SP);Produção florestal - florestas plantadas;0;0;0;0;0
+3512;Macro Metropolitana Paulista (SP);Produção florestal - florestas nativas;0;0;0;0;0
+3513;Vale do Paraíba Paulista (SP);Produção de lavouras temporárias;0;0;0;0;0
+3513;Vale do Paraíba Paulista (SP);Produção de lavouras permanentes;2;0;0;0;0
+3513;Vale do Paraíba Paulista (SP);Produção florestal - florestas plantadas;0;0;0;0;0
+3513;Vale do Paraíba Paulista (SP);Produção florestal - florestas nativas;0;0;0;0;0
+3514;Litoral Sul Paulista (SP);Produção de lavouras temporárias;0;0;0;0;0
+3514;Litoral Sul Paulista (SP);Produção de lavouras permanentes;1;0;0;0;0
+3514;Litoral Sul Paulista (SP);Produção florestal - florestas plantadas;0;0;0;0;0
+3514;Litoral Sul Paulista (SP);Produção florestal - florestas nativas;0;0;0;0;0
+3515;Metropolitana de São Paulo (SP);Produção de lavouras temporárias;0;0;0;0;0
+3515;Metropolitana de São Paulo (SP);Produção de lavouras permanentes;0;0;0;0;0
+3515;Metropolitana de São Paulo (SP);Produção florestal - florestas plantadas;0;0;0;0;0
+3515;Metropolitana de São Paulo (SP);Produção florestal - florestas nativas;0;0;0;0;0
+4101;Noroeste Paranaense (PR);Produção de lavouras temporárias;0;0;0;0;0
+4101;Noroeste Paranaense (PR);Produção de lavouras permanentes;3;12.26;12.2;102.22;101.5
+4101;Noroeste Paranaense (PR);Produção florestal - florestas plantadas;1;0;0;0;0
+4101;Noroeste Paranaense (PR);Produção florestal - florestas nativas;0;0;0;0;0
+4102;Centro Ocidental Paranaense (PR);Produção de lavouras temporárias;0;0;0;0;0
+4102;Centro Ocidental Paranaense (PR);Produção de lavouras permanentes;1;0;0;0;0
+4102;Centro Ocidental Paranaense (PR);Produção florestal - florestas plantadas;0;0;0;0;0
+4102;Centro Ocidental Paranaense (PR);Produção florestal - florestas nativas;0;0;0;0;0
+4103;Norte Central Paranaense (PR);Produção de lavouras temporárias;15;17.75;16.62;120.46;114.48
+4103;Norte Central Paranaense (PR);Produção de lavouras permanentes;35;231.65;224.16;1543.28;1487.46
+4103;Norte Central Paranaense (PR);Produção florestal - florestas plantadas;0;0;0;0;0
+4103;Norte Central Paranaense (PR);Produção florestal - florestas nativas;0;0;0;0;0
+4104;Norte Pioneiro Paranaense (PR);Produção de lavouras temporárias;1;0;0;0;0
+4104;Norte Pioneiro Paranaense (PR);Produção de lavouras permanentes;9;76.44;76.44;548.34;548.34
+4104;Norte Pioneiro Paranaense (PR);Produção florestal - florestas plantadas;0;0;0;0;0
+4104;Norte Pioneiro Paranaense (PR);Produção florestal - florestas nativas;0;0;0;0;0
+4105;Centro Oriental Paranaense (PR);Produção de lavouras temporárias;0;0;0;0;0
+4105;Centro Oriental Paranaense (PR);Produção de lavouras permanentes;0;0;0;0;0
+4105;Centro Oriental Paranaense (PR);Produção florestal - florestas plantadas;0;0;0;0;0
+4105;Centro Oriental Paranaense (PR);Produção florestal - florestas nativas;0;0;0;0;0
+4106;Oeste Paranaense (PR);Produção de lavouras temporárias;4;0;0;0;0
+4106;Oeste Paranaense (PR);Produção de lavouras permanentes;0;0;0;0;0
+4106;Oeste Paranaense (PR);Produção florestal - florestas plantadas;0;0;0;0;0
+4106;Oeste Paranaense (PR);Produção florestal - florestas nativas;0;0;0;0;0
+4107;Sudoeste Paranaense (PR);Produção de lavouras temporárias;0;0;0;0;0
+4107;Sudoeste Paranaense (PR);Produção de lavouras permanentes;0;0;0;0;0
+4107;Sudoeste Paranaense (PR);Produção florestal - florestas plantadas;0;0;0;0;0
+4107;Sudoeste Paranaense (PR);Produção florestal - florestas nativas;0;0;0;0;0
+4108;Centro-Sul Paranaense (PR);Produção de lavouras temporárias;0;0;0;0;0
+4108;Centro-Sul Paranaense (PR);Produção de lavouras permanentes;0;0;0;0;0
+4108;Centro-Sul Paranaense (PR);Produção florestal - florestas plantadas;0;0;0;0;0
+4108;Centro-Sul Paranaense (PR);Produção florestal - florestas nativas;0;0;0;0;0
+4109;Sudeste Paranaense (PR);Produção de lavouras temporárias;0;0;0;0;0
+4109;Sudeste Paranaense (PR);Produção de lavouras permanentes;0;0;0;0;0
+4109;Sudeste Paranaense (PR);Produção florestal - florestas plantadas;0;0;0;0;0
+4109;Sudeste Paranaense (PR);Produção florestal - florestas nativas;0;0;0;0;0
+4110;Metropolitana de Curitiba (PR);Produção de lavouras temporárias;0;0;0;0;0
+4110;Metropolitana de Curitiba (PR);Produção de lavouras permanentes;0;0;0;0;0
+4110;Metropolitana de Curitiba (PR);Produção florestal - florestas plantadas;0;0;0;0;0
+4110;Metropolitana de Curitiba (PR);Produção florestal - florestas nativas;0;0;0;0;0
+4201;Oeste Catarinense (SC);Produção de lavouras temporárias;0;0;0;0;0
+4201;Oeste Catarinense (SC);Produção de lavouras permanentes;0;0;0;0;0
+4201;Oeste Catarinense (SC);Produção florestal - florestas plantadas;0;0;0;0;0
+4201;Oeste Catarinense (SC);Produção florestal - florestas nativas;0;0;0;0;0
+4202;Norte Catarinense (SC);Produção de lavouras temporárias;0;0;0;0;0
+4202;Norte Catarinense (SC);Produção de lavouras permanentes;0;0;0;0;0
+4202;Norte Catarinense (SC);Produção florestal - florestas plantadas;0;0;0;0;0
+4202;Norte Catarinense (SC);Produção florestal - florestas nativas;0;0;0;0;0
+4203;Serrana (SC);Produção de lavouras temporárias;0;0;0;0;0
+4203;Serrana (SC);Produção de lavouras permanentes;0;0;0;0;0
+4203;Serrana (SC);Produção florestal - florestas plantadas;0;0;0;0;0
+4203;Serrana (SC);Produção florestal - florestas nativas;0;0;0;0;0
+4204;Vale do Itajaí (SC);Produção de lavouras temporárias;0;0;0;0;0
+4204;Vale do Itajaí (SC);Produção de lavouras permanentes;0;0;0;0;0
+4204;Vale do Itajaí (SC);Produção florestal - florestas plantadas;0;0;0;0;0
+4204;Vale do Itajaí (SC);Produção florestal - florestas nativas;0;0;0;0;0
+4205;Grande Florianópolis (SC);Produção de lavouras temporárias;0;0;0;0;0
+4205;Grande Florianópolis (SC);Produção de lavouras permanentes;0;0;0;0;0
+4205;Grande Florianópolis (SC);Produção florestal - florestas plantadas;0;0;0;0;0
+4205;Grande Florianópolis (SC);Produção florestal - florestas nativas;0;0;0;0;0
+4206;Sul Catarinense (SC);Produção de lavouras temporárias;0;0;0;0;0
+4206;Sul Catarinense (SC);Produção de lavouras permanentes;0;0;0;0;0
+4206;Sul Catarinense (SC);Produção florestal - florestas plantadas;0;0;0;0;0
+4206;Sul Catarinense (SC);Produção florestal - florestas nativas;0;0;0;0;0
+4301;Noroeste Rio-grandense (RS);Produção de lavouras temporárias;0;0;0;0;0
+4301;Noroeste Rio-grandense (RS);Produção de lavouras permanentes;0;0;0;0;0
+4301;Noroeste Rio-grandense (RS);Produção florestal - florestas plantadas;0;0;0;0;0
+4301;Noroeste Rio-grandense (RS);Produção florestal - florestas nativas;0;0;0;0;0
+4302;Nordeste Rio-grandense (RS);Produção de lavouras temporárias;0;0;0;0;0
+4302;Nordeste Rio-grandense (RS);Produção de lavouras permanentes;0;0;0;0;0
+4302;Nordeste Rio-grandense (RS);Produção florestal - florestas plantadas;0;0;0;0;0
+4302;Nordeste Rio-grandense (RS);Produção florestal - florestas nativas;0;0;0;0;0
+4303;Centro Ocidental Rio-grandense (RS);Produção de lavouras temporárias;0;0;0;0;0
+4303;Centro Ocidental Rio-grandense (RS);Produção de lavouras permanentes;0;0;0;0;0
+4303;Centro Ocidental Rio-grandense (RS);Produção florestal - florestas plantadas;0;0;0;0;0
+4303;Centro Ocidental Rio-grandense (RS);Produção florestal - florestas nativas;0;0;0;0;0
+4304;Centro Oriental Rio-grandense (RS);Produção de lavouras temporárias;0;0;0;0;0
+4304;Centro Oriental Rio-grandense (RS);Produção de lavouras permanentes;0;0;0;0;0
+4304;Centro Oriental Rio-grandense (RS);Produção florestal - florestas plantadas;0;0;0;0;0
+4304;Centro Oriental Rio-grandense (RS);Produção florestal - florestas nativas;0;0;0;0;0
+4305;Metropolitana de Porto Alegre (RS);Produção de lavouras temporárias;0;0;0;0;0
+4305;Metropolitana de Porto Alegre (RS);Produção de lavouras permanentes;0;0;0;0;0
+4305;Metropolitana de Porto Alegre (RS);Produção florestal - florestas plantadas;0;0;0;0;0
+4305;Metropolitana de Porto Alegre (RS);Produção florestal - florestas nativas;0;0;0;0;0
+4306;Sudoeste Rio-grandense (RS);Produção de lavouras temporárias;0;0;0;0;0
+4306;Sudoeste Rio-grandense (RS);Produção de lavouras permanentes;0;0;0;0;0
+4306;Sudoeste Rio-grandense (RS);Produção florestal - florestas plantadas;0;0;0;0;0
+4306;Sudoeste Rio-grandense (RS);Produção florestal - florestas nativas;0;0;0;0;0
+4307;Sudeste Rio-grandense (RS);Produção de lavouras temporárias;0;0;0;0;0
+4307;Sudeste Rio-grandense (RS);Produção de lavouras permanentes;0;0;0;0;0
+4307;Sudeste Rio-grandense (RS);Produção florestal - florestas plantadas;0;0;0;0;0
+4307;Sudeste Rio-grandense (RS);Produção florestal - florestas nativas;0;0;0;0;0
+5001;Pantanais Sul Mato-grossense (MS);Produção de lavouras temporárias;0;0;0;0;0
+5001;Pantanais Sul Mato-grossense (MS);Produção de lavouras permanentes;0;0;0;0;0
+5001;Pantanais Sul Mato-grossense (MS);Produção florestal - florestas plantadas;0;0;0;0;0
+5001;Pantanais Sul Mato-grossense (MS);Produção florestal - florestas nativas;0;0;0;0;0
+5002;Centro Norte de Mato Grosso do Sul (MS);Produção de lavouras temporárias;0;0;0;0;0
+5002;Centro Norte de Mato Grosso do Sul (MS);Produção de lavouras permanentes;0;0;0;0;0
+5002;Centro Norte de Mato Grosso do Sul (MS);Produção florestal - florestas plantadas;0;0;0;0;0
+5002;Centro Norte de Mato Grosso do Sul (MS);Produção florestal - florestas nativas;0;0;0;0;0
+5003;Leste de Mato Grosso do Sul (MS);Produção de lavouras temporárias;0;0;0;0;0
+5003;Leste de Mato Grosso do Sul (MS);Produção de lavouras permanentes;0;0;0;0;0
+5003;Leste de Mato Grosso do Sul (MS);Produção florestal - florestas plantadas;0;0;0;0;0
+5003;Leste de Mato Grosso do Sul (MS);Produção florestal - florestas nativas;0;0;0;0;0
+5004;Sudoeste de Mato Grosso do Sul (MS);Produção de lavouras temporárias;1;0;0;0;0
+5004;Sudoeste de Mato Grosso do Sul (MS);Produção de lavouras permanentes;1;0;0;0;0
+5004;Sudoeste de Mato Grosso do Sul (MS);Produção florestal - florestas plantadas;0;0;0;0;0
+5004;Sudoeste de Mato Grosso do Sul (MS);Produção florestal - florestas nativas;0;0;0;0;0
+5101;Norte Mato-grossense (MT);Produção de lavouras temporárias;0;0;0;0;0
+5101;Norte Mato-grossense (MT);Produção de lavouras permanentes;3;6.06;6.06;37.62;37.62
+5101;Norte Mato-grossense (MT);Produção florestal - florestas plantadas;0;0;0;0;0
+5101;Norte Mato-grossense (MT);Produção florestal - florestas nativas;0;0;0;0;0
+5102;Nordeste Mato-grossense (MT);Produção de lavouras temporárias;0;0;0;0;0
+5102;Nordeste Mato-grossense (MT);Produção de lavouras permanentes;0;0;0;0;0
+5102;Nordeste Mato-grossense (MT);Produção florestal - florestas plantadas;0;0;0;0;0
+5102;Nordeste Mato-grossense (MT);Produção florestal - florestas nativas;1;0;0;0;0
+5103;Sudoeste Mato-grossense (MT);Produção de lavouras temporárias;0;0;0;0;0
+5103;Sudoeste Mato-grossense (MT);Produção de lavouras permanentes;1;0;0;0;0
+5103;Sudoeste Mato-grossense (MT);Produção florestal - florestas plantadas;0;0;0;0;0
+5103;Sudoeste Mato-grossense (MT);Produção florestal - florestas nativas;0;0;0;0;0
+5104;Centro-Sul Mato-grossense (MT);Produção de lavouras temporárias;0;0;0;0;0
+5104;Centro-Sul Mato-grossense (MT);Produção de lavouras permanentes;0;0;0;0;0
+5104;Centro-Sul Mato-grossense (MT);Produção florestal - florestas plantadas;0;0;0;0;0
+5104;Centro-Sul Mato-grossense (MT);Produção florestal - florestas nativas;0;0;0;0;0
+5105;Sudeste Mato-grossense (MT);Produção de lavouras temporárias;0;0;0;0;0
+5105;Sudeste Mato-grossense (MT);Produção de lavouras permanentes;0;0;0;0;0
+5105;Sudeste Mato-grossense (MT);Produção florestal - florestas plantadas;0;0;0;0;0
+5105;Sudeste Mato-grossense (MT);Produção florestal - florestas nativas;0;0;0;0;0
+5201;Noroeste Goiano (GO);Produção de lavouras temporárias;0;0;0;0;0
+5201;Noroeste Goiano (GO);Produção de lavouras permanentes;0;0;0;0;0
+5201;Noroeste Goiano (GO);Produção florestal - florestas plantadas;0;0;0;0;0
+5201;Noroeste Goiano (GO);Produção florestal - florestas nativas;0;0;0;0;0
+5202;Norte Goiano (GO);Produção de lavouras temporárias;0;0;0;0;0
+5202;Norte Goiano (GO);Produção de lavouras permanentes;0;0;0;0;0
+5202;Norte Goiano (GO);Produção florestal - florestas plantadas;0;0;0;0;0
+5202;Norte Goiano (GO);Produção florestal - florestas nativas;0;0;0;0;0
+5203;Centro Goiano (GO);Produção de lavouras temporárias;0;0;0;0;0
+5203;Centro Goiano (GO);Produção de lavouras permanentes;0;0;0;0;0
+5203;Centro Goiano (GO);Produção florestal - florestas plantadas;0;0;0;0;0
+5203;Centro Goiano (GO);Produção florestal - florestas nativas;0;0;0;0;0
+5204;Leste Goiano (GO);Produção de lavouras temporárias;1;0;0;0;0
+5204;Leste Goiano (GO);Produção de lavouras permanentes;0;0;0;0;0
+5204;Leste Goiano (GO);Produção florestal - florestas plantadas;0;0;0;0;0
+5204;Leste Goiano (GO);Produção florestal - florestas nativas;0;0;0;0;0
+5205;Sul Goiano (GO);Produção de lavouras temporárias;0;0;0;0;0
+5205;Sul Goiano (GO);Produção de lavouras permanentes;0;0;0;0;0
+5205;Sul Goiano (GO);Produção florestal - florestas plantadas;0;0;0;0;0
+5205;Sul Goiano (GO);Produção florestal - florestas nativas;0;0;0;0;0
+5301;Distrito Federal (DF);Produção de lavouras temporárias;1;0;0;0;0
+5301;Distrito Federal (DF);Produção de lavouras permanentes;2;0;0;0;0
+5301;Distrito Federal (DF);Produção florestal - florestas plantadas;0;0;0;0;0
+5301;Distrito Federal (DF);Produção florestal - florestas nativas;0;0;0;0;0
